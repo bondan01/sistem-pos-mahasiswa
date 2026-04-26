@@ -1,0 +1,6 @@
+{
+  "name": "Sistem POS Mahasiswa (Web Interface)",
+  "description": "Sebuah aplikasi Point of Sale (POS) lengkap dengan Dashboard Admin, Manajemen Produk, Stok, Pelanggan, Supplier, dan Transaksi Penjualan. Dilengkapi dengan laporan grafik dan analisis AI sederhana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
